@@ -1,0 +1,25 @@
+/* google fonts popins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    font-family:'Poppins', sans-serif;
+    background-color: #ddd;
+}
+.header-bg{
+    background: #264653;
+}
+.border-img{
+    width: 149px;
+    height: 160px;
+    border-radius: 50%;
+}
+.icon-color{
+    color:#fb5200;
+}
+.Question{
+    color: #fb5200;
+    
+}
+.img-grayscale{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
